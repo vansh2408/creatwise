@@ -1,4 +1,4 @@
-/* .macbookPro1648Child {
+.innerMainChild {
   position: absolute;
   top: -102px;
   left: -130px;
@@ -8,7 +8,7 @@
   width: 560px;
   height: 560px;
 }
-.macbookPro1648Item {
+.mainItem {
   position: absolute;
   top: 0;
   left: 0;
@@ -112,7 +112,7 @@
   height: 63px;
   font-size: 22px;
 }
-.macbookPro1648 {
+.innerMain {
   top: 91px;
   left: 0;
   background-color: #fff;
@@ -538,7 +538,7 @@
   width: 194px;
   height: 68px;
 }
-.macbookPro1660 {
+.main {
   position: relative;
   background-color: #fff;
   width: 100%;
@@ -548,4 +548,4 @@
   font-size: 19px;
   color: #5552b9;
   font-family: Montserrat;
-} */
+}
